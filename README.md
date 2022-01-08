@@ -125,9 +125,9 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=RedHackkErR&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RedHackkErR&theme=merko)
+![github stats](https://github-readme-stats.vercel.app/api?username=RedHackkErR&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niloy0&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RedHackkErR&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Alt text](https://camo.githubusercontent.com/69a3c0bf0f29b55823790826b3ec5d02b238d6dd4af9b13a8ee339558d7e87d5/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f6873696e5468654c6567656e64266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b)
 
